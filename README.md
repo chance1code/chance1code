@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @chance1code
+- 👀 I’m interested in Iot technology ,It managment , and project managment. 
+- 🌱 I’m currently learning how to use Devkit MxChip and Raspberry Pi for sensory data and all things IoT
+- 📫 How to reach me: https://www.linkedin.com/in/chancei-white-a28334121/ 
